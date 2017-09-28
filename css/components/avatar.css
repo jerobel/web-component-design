@@ -1,0 +1,21 @@
+.avatar {
+	border-radius:50%;
+	width: 50px;
+	transition: transform 250ms ease;
+
+}	
+
+.avatar-small{
+	border-radius: 50%;
+	width: 30px;
+	transition: transform 250ms ease;
+}
+
+.avatar:hover {
+	transform: scale(1.15);
+}
+
+.avatar-small:hover {
+	transform: scale(1.15);	
+}
+

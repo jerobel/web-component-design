@@ -1,0 +1,8 @@
+.dropdown-menu{
+	box-shadow: none;
+	font-weight: lighter !important;
+}
+
+.dropdown-menu li a{
+	color: #808080;
+}
